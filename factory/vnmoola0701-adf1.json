@@ -1,0 +1,9 @@
+{
+	"name": "vnmoola0701-adf1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "56905e16-3d81-46c5-9a93-f91fb0deff31",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
