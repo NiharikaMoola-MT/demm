@@ -1,5 +1,13 @@
 {
 	"name": "vnmoola0701-adf1",
+	"properties": {
+		"globalParameters": {
+			"global1": {
+				"type": "string",
+				"value": "abc"
+			}
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
